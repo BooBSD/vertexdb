@@ -10,4 +10,3 @@ Currently only ready for tinkering. Still need to finish adding tests and permis
 Future
 
 FUSE interface and may add support for more complex queries and dynamic/ automatic index creation based on observed queries.
-
